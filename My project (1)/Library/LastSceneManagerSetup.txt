@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/CSC 250 HW 10-11.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
